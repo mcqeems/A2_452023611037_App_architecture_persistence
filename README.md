@@ -10,6 +10,17 @@ tambahan fitur **CRUD** (Create, Read, Update, Delete) yang memiliki lapisan
 
 ---
 
+## Identitas Pengembang
+
+| Field              | Keterangan                                |
+|--------------------|-------------------------------------------|
+| Nama               | Mustaqim Nawahhudi Ma'arif                |
+| NIM                | 452024611037                              |
+| Program Studi      | Teknik Informatasi 5                      |
+| Mata Kuliah        | Pemrograman Perangkat Bergerak            |
+
+---
+
 ## Deskripsi Singkat
 
 Aplikasi menampilkan daftar jadwal bus yang diambil dari database Room.
